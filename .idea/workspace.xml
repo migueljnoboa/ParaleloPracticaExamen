@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea30b85e-df2f-4cce-ba95-bcbd94c395c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Problema1/AlgoritmoClasico/SumaArregloParalelo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Problema1/AlgoritmoClasico/SumaArregloSequencial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="ea30b85e-df2f-4cce-ba95-bcbd94c395c6" name="Changes" comment="Ejercicio 1 Completo">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Problema2/ClientSide.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +40,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.ParaleloPracticaExamen [:ClientSide.main()].executor": "Run",
     "Gradle.ParaleloPracticaExamen [:Main.main()].executor": "Run",
+    "Gradle.ParaleloPracticaExamen [:ServerSide.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Programming/Universidad/Paralella y concurrente/Coursera/Miniproyecto 1/miniproject_1",
@@ -74,11 +75,24 @@
       <updated>1717622043405</updated>
       <workItem from="1717622044482" duration="624000" />
       <workItem from="1717622772552" duration="450000" />
-      <workItem from="1717623262302" duration="3385000" />
+      <workItem from="1717623262302" duration="6114000" />
     </task>
+    <task id="LOCAL-00001" summary="Ejercicio 1 Completo">
+      <option name="closed" value="true" />
+      <created>1717627329180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717627329180</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercicio 1 Completo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 1 Completo" />
   </component>
 </project>
